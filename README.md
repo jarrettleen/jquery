@@ -1,0 +1,2 @@
+# juqery
+juqery Manual details
